@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/jun/ros_objread/catkin_ws/install/setup.sh
