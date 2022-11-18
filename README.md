@@ -6,9 +6,9 @@ visualize point cloud of .npy type and 3d bboxes of .obj file in Rviz via ROS no
 | baseline pred VS. ground truth               | ours pred VS. ground truth               |
 | :------------------------------------------- | :--------------------------------------- |
 | <img src="demo_baseline_gt.png" width="450"> | <img src="demo_ours_gt.png" width="450"> |
-green:  ground truth BBox
-orange: baseline pred BBox
-pink:   ours pred BBox
+| green:  ground truth BBox                                                               |
+| orange: baseline pred BBox                                                              |
+| pink:   ours pred BBox                                                                  |
 
 
 
