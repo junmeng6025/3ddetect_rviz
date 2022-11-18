@@ -1,7 +1,17 @@
 # ROS read .obj
 visualize point cloud of .npy type and 3d bboxes of .obj file in Rviz via ROS noetic  
 ![ROS](https://img.shields.io/badge/ros-noetic-blue)
-![Ubuntu](https://img.shields.io/badge/ubuntu-20.04-blue)
+![Ubuntu](https://img.shields.io/badge/ubuntu-20.04-blue)  
+
+| baseline pred VS. ground truth               | ours pred VS. ground truth               |
+| :------------------------------------------- | :--------------------------------------- |
+| <img src="demo_baseline_gt.png" width="450"> | <img src="demo_ours_gt.png" width="450"> |
+green:  ground truth BBox
+orange: baseline pred BBox
+pink:   ours pred BBox
+
+
+
 ## Build
 build the workspace
 ```bash
